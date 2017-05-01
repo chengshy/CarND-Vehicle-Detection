@@ -102,9 +102,11 @@ Totally, we search for 240 windows for cars.
 Ultimately I searched on three scales using YCrCb 3-channel HOG features plus spatially binned color and histograms of color in the feature vector, which provided a nice result.  Here are some example images:
 
 The heatmap of the detection:
+
 ![alt text][image7]
 
 The final car detection with bounding box:
+
 ![alt text][image8]
 ---
 
